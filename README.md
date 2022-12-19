@@ -5,6 +5,3 @@ The test data is about 20 persent of whole data which is randomly selected.
 
 Features which are going to be trained are 'Low' and 'High' prices of BTC.
 Target label would be 'Close', which indicates close prices of BTC.
-
-
-I hope you enjoy!
